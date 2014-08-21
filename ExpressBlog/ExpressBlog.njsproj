@@ -47,9 +47,7 @@
     <Content Include="public\bootstrap-3.1.1\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="public\stylesheets\style.styl" />
     <Content Include="README.md" />
-    <Content Include="views\error404.ejs" />
-    <Content Include="views\index.jade" />
-    <Content Include="views\layout.jade" />
+    <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
